@@ -365,6 +365,12 @@ a:hover{
     background: none;
     width: 350px;
     padding: 19px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;    
+    color: #FFFFFF;
 }
 .s8_con input::placeholder{
     font-weight: 400;
